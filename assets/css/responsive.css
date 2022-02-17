@@ -33,6 +33,7 @@
   }
 }
 
+
 /* tablets */
 @media (max-width: 991px) {
   #main-slide .carousel-caption {
@@ -58,7 +59,7 @@
     margin-bottom: 30px;
   }
   .accordion .header-title {
-    font-size: 12px;
+    font-size: 20px;
   }
   .schedule .schedule-tab-title .nav-tabs .nav-link {
     width: 150px;
