@@ -18,6 +18,29 @@ body {
   backface-visibility: hidden;
   overflow-x: hidden;
 }
+#li1 {
+  
+  color: #fff;
+  text-align: left;
+}
+#li2 {
+  
+  color: #fff;
+  
+  margin: 8px 0px 0px ;;
+  
+}
+#h3{
+  color: #fff;
+
+}
+ul {
+  font-size: 14px;
+  color: #fff;
+  line-height: 20px;
+  margin: 0;
+  padding-right: 50px;
+}
 address {
   font-size: 14px;
   color: #fff;
@@ -1734,7 +1757,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   font-size: 20px;
   color: #fff;
   font-weight: 700;
-  padding-bottom: 10px;
+  
   letter-spacing: 0.5px;
 }
 
